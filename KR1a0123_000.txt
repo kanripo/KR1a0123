@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易學象數論
-#+DATE: 2015-09-23 09:35:25
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 21:58:50.509014
+#+PROPERTY: ID KR1a0123
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1a0123_WYG_000-1a>¶
 欽定四庫全書　　　　　經部一¶
 　易學象數論　　　　　　易𩔖¶
@@ -49,4 +51,3 @@
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 <pb:KR1a0123_WYG_000-3b>¶
 　　　　　　　總　校　官　(臣/)　陸　費　墀¶
-
